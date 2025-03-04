@@ -1,0 +1,11 @@
+{
+    "name": "ssmason/satori-digital",
+    "type": "wordpress-theme",
+    "description": "A set of helper files and tools to quickly spin-up a WordPress Theme.",
+    "authors": [
+        {
+            "name": "Siddharth Thevaril",
+            "email": "siddharth.thevaril@news.co.uk"
+        }
+    ]
+}
